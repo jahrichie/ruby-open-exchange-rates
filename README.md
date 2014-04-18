@@ -14,10 +14,8 @@ https://github.com/jnunemaker/httparty
 
 CurrencyConversion.calc_by_currency("EUR", 10000)
 
-# Return a hash of last caclualted exchange rates against the USD.
+# Return a hash of last exchange rates against the USD.
 CurrencyConversion.show_rates
-
-
 
 {"AED"=>3.673524, "AFN"=>56.5269, "ALL"=>101.35641, "AMD"=>417.297, "ANG"=>1.78898, "AOA"=>97.740925, "ARS"=>8.009547"...}
 
