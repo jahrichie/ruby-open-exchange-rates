@@ -34,8 +34,9 @@ class CurrencyConversion
       delimiter: "" 
   end
 
-def self.current_rates
+
+ def self.current_rates
   puts RATES[:rates]
-end 
+ end 
  
 end
