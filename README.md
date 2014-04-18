@@ -1,6 +1,6 @@
 **See: currency_conversion.rb**
 
-Convert USD to a list of currencies using Open Excha JSON API and httparty (I already had this in my app, so feel free to talk to the API with whatever makes you happy.
+Convert USD to a list of currencies using Open Exchange JSON API and httparty (I already had httparty in my app, feel free to talk to the API with whatever makes you happy, and remove that dependency. 
 
 #Dependency
 https://openexchangerates.org/ 
