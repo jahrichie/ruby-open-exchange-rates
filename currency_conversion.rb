@@ -33,6 +33,9 @@ class CurrencyConversion
       seperator: ",", 
       delimiter: "" 
   end
- 
+
+def self.current_rates
+  puts RATES[:rates]
+end 
  
 end
